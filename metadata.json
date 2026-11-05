@@ -1,0 +1,6 @@
+{
+  "name": "RABIA-CUN | Vigilancia y Alertas Sanitarias en Cancún",
+  "description": "Plataforma móvil híbrida de vigilancia epidemiológica, reportes ciudadanos con geocerca en el Polígono Kabah y alertas sanitarias verificadas en Cancún, Quintana Roo.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

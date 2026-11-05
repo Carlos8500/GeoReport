@@ -1,0 +1,6 @@
+{
+  "summary": "Plan de implementación y arquitectura técnica para RABIA-CUN: prototipo interactivo con geocerca estricta en el polígono del Parque Ecológico Kabah, selector de ubicación estilo Uber con radio de privacidad, flujo completo de reportes y verificación sanitaria, y guía técnica para React Native, PostGIS y Docker.",
+  "updatedAt": "2026-11-04T23:35:14.940418664Z",
+  "requestFeedback": true,
+  "userFacing": true
+}
